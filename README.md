@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP, React**
 
-- 💬 Ask me about **JavaScript, Java, NodeJS**
+- 💬 Ask me about **JavaScript, NodeJS**, ReactJS
 
 - 📫 How to reach me **allanbinga73@gmail.com**
 
