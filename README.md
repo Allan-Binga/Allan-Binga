@@ -47,9 +47,10 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 
 ## 📊 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical" alt="Allan's GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Binga&exclude_repo=python-sandbox,school-python-lab&layout=compact&theme=radical" alt="TopLanguages width="300" />
-<img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" alt="GitHub Streak" width="400" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical" alt="Allan's GitHub Stats" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" alt="GitHub Streak" width="400" />
+</div>
 
 ---
 
@@ -59,6 +60,5 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 - 🌐 [Portfolio](https://allanbinga.dev) *Update with your link* -->
 
 - 🐦 [Twitter](https://x.com/B1nga__)
-
 
 ---
