@@ -5,6 +5,7 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 ---
 
 ## 🌟 About Me
+
 - 🔧 Specializing in **DevOps** and **Cloud Engineering** with tools like **Jenkins**, **Docker**, **Kubernetes**, and **AWS**.
 - 💻 Building dynamic apps with the **MERN stack**, **Java + Spring Boot**, and databases like **PostgreSQL** and **MongoDB**.
 - 🌱 Currently diving deeper into **Infrastructure as Code (Terraform)** and **CI/CD best practices**.
@@ -15,15 +16,18 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 ## 🛠️ Tech Stack
 
 ### ⚙️ DevOps & Cloud
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ### 💻 Full-Stack Development
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
@@ -36,8 +40,10 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 ---
 
 ## 📊 My GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical" alt="Allan's GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Binga&layout=compact&theme=radical" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Binga&exclude_repo=python-sandbox,school-python-lab&layout=compact&theme=radical" alt="Most Used Languages" width="400"/>
+
 <img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" alt="GitHub Streak" width="400" />
 
 ---
