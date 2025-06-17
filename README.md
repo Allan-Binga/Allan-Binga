@@ -58,8 +58,7 @@ I'm a **DevOps Engineer** and **Full-Stack Developer** passionate about crafting
 <!-- - 💼 [LinkedIn](https://www.linkedin.com/in/allanbinga) *Update with your link*
 - 🌐 [Portfolio](https://allanbinga.dev) *Update with your link* -->
 
-- 🐦 [Twitter](https://x.com/B1nga__) _Optional: add your handle_
+- 🐦 [Twitter](https://x.com/B1nga__)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Allan-Binga.Allan-Binga&left_color=black&right_color=purple)
 
 ---
