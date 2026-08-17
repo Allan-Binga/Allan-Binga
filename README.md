@@ -45,10 +45,10 @@ I'm a DevOps Engineer and Full-Stack Developer with a strong focus on designing 
 
 ---
 
-<!-- ## 📊 My GitHub Stats -->
+## 📊 My GitHub Stats -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical" width="400" height="200" />
-<img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" width="400" height="200" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical" width="400" height="200" />
+<img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" width="400" height="200" />
 
 ---
 
