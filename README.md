@@ -45,26 +45,16 @@ I'm a DevOps Engineer and Full-Stack Developer with a strong focus on designing 
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats -->
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Allan-Binga's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical" alt="Allan-Binga's Streak Stats" width="48%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Allan-Binga&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Binga&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Allan-Binga's Top Languages" width="48%" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Allan-Binga's Trophies" width="48%" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Allan-Binga&theme=radical&hide_border=true" width="60%" />
 </p>
-
 
 ---
 
